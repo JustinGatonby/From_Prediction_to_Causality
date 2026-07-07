@@ -1,0 +1,12 @@
+pandas
+numpy 
+matplotlib
+jupyter
+ipykernel
+kagglehub
+scikit-learn
+xgboost
+shap 
+pygam 
+statsmodels
+patsy
