@@ -10,3 +10,7 @@ shap
 pygam 
 statsmodels
 patsy
+scipy
+ipython
+
+
