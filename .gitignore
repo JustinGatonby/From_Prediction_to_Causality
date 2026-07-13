@@ -11,7 +11,7 @@ __pycache__/
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Environment variables and secrets
+# Environment variables
 .env
 
 # VS Code settings
